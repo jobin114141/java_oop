@@ -1,0 +1,5 @@
+1. Write a program to write to a file, then read from the file and display the contents on
+the console.
+2. Write a program that reads from a file having integers. Copy even numbers and odd
+numbers to separate files.
+3. Client server communication using Socket – TCP/IP
