@@ -1,0 +1,15 @@
+1. Create a Graphics package that has classes and interfaces for figures Rectangle, Triangle,
+Square and Circle. Test the package by finding the area of these figures.
+2. Write a user defined exception class to authenticate the user name and password.
+3. Find the average of N positive integers, raising a user defined exception for each negative
+input.
+4. Define 2 classes; one for generating Fibonacci numbers and other for displaying even
+numbers in a given range. Implement using threads. (Runnable Interface).
+5. Program to create a generic stack and do the Push and Pop operations.
+6. Maintain a list of Strings using ArrayList from collection framework, perform built-in
+operations.
+7. Program to demonstrate the creation of queue object using the PriorityQueue class
+8. Program to demonstrate the addition and deletion of elements in deque.
+9. Write a Java program to compare two hash set
+10. Program to demonstrate the working of Map interface by adding, changing and removing
+elements.
